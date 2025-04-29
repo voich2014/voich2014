@@ -9,7 +9,7 @@ Githubでは過去にプライベートホームページで公開していた�
 
 - [creative_coding](https://github.com/voich2014/creative_coding)  
   複数の作品をフォルダ単位で整理しています  
-  ※現在準備中（順次公開予定）
+  
 
 ---
 
