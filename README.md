@@ -18,6 +18,7 @@ Githubでは過去にプライベートホームページで公開していた�
 - [X（旧Twitter）@voich2014](https://twitter.com/voich2014)
 - [Bluesky @voich2014.bsky.social](https://bsky.app/profile/voich2014.bsky.social)
 - [YouTube @voichannel](https://www.youtube.com/@voichannel)
+- [BOOTH ぼいちWORKS](https://voichworks.booth.pm/)
 
 ---
 
