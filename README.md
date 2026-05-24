@@ -9,6 +9,8 @@ Githubでは過去にプライベートホームページで公開していた�
 
 - [creative_coding](https://github.com/voich2014/creative_coding)  
   複数の作品をフォルダ単位で整理しています  
+- [mandel_zoom_abyss](https://github.com/voich2014/mandel_zoom_abyss)  
+  長年の目標だったブラウザでのリアルタイムマンデルブロ深層ズーム作品です  
   
 
 ---
