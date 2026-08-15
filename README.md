@@ -11,8 +11,11 @@ Githubでは過去にプライベートホームページで公開していた�
   複数の作品をフォルダ単位で整理しています  
 - [mandel_zoom_abyss](https://github.com/voich2014/mandel_zoom_abyss)  
   長年の目標だったブラウザでのリアルタイムマンデルブロ深層ズーム作品です  
+- [strange_attractor_vivarium](https://github.com/voich2014/strange_attractor_vivarium)  
+  ストレンジ・アトラクタのリメイク作品です。やりたかった表現がようやくできました。
+- [madoka_piece](https://github.com/voich2014/madoka_piece)  
+  「まどかのP/ECE」と「まどかのP/ECEではじめる電子工作」の復旧地です。
   
-
 ---
 
 📫 **連絡・活動など**
